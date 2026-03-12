@@ -9,7 +9,9 @@ This script will convert/downgrade a Fender Studio Pro 8 OR a Studio One v7 .son
 The script makes projects saved in v8 usable with v7 and v6 again. 
 
 I have also "created" a small cross-platform GUI app based on this script which I will upload after I test for other plugins that need "fixing".
-Usage: 1. allow executing 2. ./StudioPro2StudioOne.sh /path/to/file(s)/to/be/converted.song
+Usage: 
+1. allow executing
+2. ./StudioPro2StudioOne.sh /path/to/file(s)/to/be/converted.song
 
 Screenshots:
 <img width="1010" height="201" alt="Screenshot_1" src="https://github.com/user-attachments/assets/ce074f8a-e3a9-4e25-93db-c992a8b396b1" />
