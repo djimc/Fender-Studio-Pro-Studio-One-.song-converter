@@ -19,4 +19,6 @@ Screenshots:
 <img width="1006" height="179" alt="Screenshot_3" src="https://github.com/user-attachments/assets/2f75706c-b6dd-4ed0-9f1b-2e7a9f582a32" />
 <img width="1006" height="369" alt="Screenshot_4" src="https://github.com/user-attachments/assets/03863e84-d651-4b82-bab7-0820d934429c" />
 
-I have also "created" a small cross-platform GUI app based on this script which I will upload after I test for other plugins that need "fixing" because the script is way easier to edit. It will also support downgrades from v8 to v7 and v6. Basically the script  but standalone, with GUI, drag & drop support and cross-platform. This will be in the future. For now, I've compiled it for Linux just to make sure it works. It does. 
+I have also "created" a small cross-platform GUI app based on this script which yoy can find here:
+
+https://github.com/djimc/Studio-Pro-.song-converter-app
