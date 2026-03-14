@@ -19,6 +19,6 @@ Screenshots:
 <img width="1006" height="179" alt="Screenshot_3" src="https://github.com/user-attachments/assets/2f75706c-b6dd-4ed0-9f1b-2e7a9f582a32" />
 <img width="1006" height="369" alt="Screenshot_4" src="https://github.com/user-attachments/assets/03863e84-d651-4b82-bab7-0820d934429c" />
 
-I have also "created" a small cross-platform GUI app based on this script which yoy can find here:
+I have also "created" a small cross-platform GUI app based on this script which you can find here:
 
 https://github.com/djimc/Studio-Pro-.song-converter-app
