@@ -1,8 +1,8 @@
 # Fender Studio Pro / Studio-One .song-converter
-A Linux bash script for converting Studio Pro 8 and Studio One 7 .song files
+A Linux bash script for converting Studio Pro 8.1, Studio Pro 8.0 and Studio One 7 .song files
 
-
-PLEASE NOTE THIS WAS WRITTEN WITH AI!!! 
+##New compressor introduced in v8.1. The script successfully converts it back to be used in previous versions. No missing device. Compressor tweaks made on 8.1 are preserved.
+PLEASE NOTE THIS WAS VIBE CODED!!! 
 I am not a developer. I only guided the bot what I need to be created, and then I tested and fine-tuned the script. The previously known process of converting was leaving us with a missing EQ pligin. I only "fixed" that on top of what was already known. I will update the script if/when I find other native plugins are reported missing when downgrading from v8.
 
 This script will convert/downgrade a Fender Studio Pro 8 OR a Studio One v7 .song file to either v7 or v6 .song file. Multiple .song files are supported and processed at once. The script detects what .song files have been dropped and presents you with an interactive menu. The process is non-distructive. It places the converted files next to the original .song files, keeping the originals intact. 
